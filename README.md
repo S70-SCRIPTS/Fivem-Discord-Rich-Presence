@@ -19,6 +19,8 @@ This script sets up a Discord Rich Presence for your FiveM server, displaying in
    - Replace `APP_ID` with your Discord Application ID.
    - Replace `SERVER_NAME` with your server's name.
    - Replace `DISCORD_SERVER_LINK` with the invite link to your Discord server.
+3. **Preview:**
+   ![Screenshot 2024-12-03 162543](https://github.com/user-attachments/assets/013a2eab-e7a0-479a-ae62-8075b71e7e90)
 
 
 This `README.md` includes installation instructions and instructions for customizing the Discord Rich Presence settings.
